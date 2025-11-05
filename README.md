@@ -16,5 +16,14 @@ I'm a passionate and curious Fullstack Developer in training, currently diving d
 - ⚡ Fun fact: I love turning complex problems into elegant code — and I never say no to a good cup of coffee ☕
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Halamohamed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Halamohamed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Halamohamed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!--[![](https://visitcount.itsvg.in/api?id=Halamohamed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Thanks for stopping by! Let's build something amazing together 💻✨
